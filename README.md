@@ -23,10 +23,19 @@ Give Blink-Blink command using a voice
 * Switch on
 * Switch off
 * Blink-Blink
-* Switch to ready
+* Switch to red
 * Switch to green
 * Run the Motor
 
 # projectCodex-
 
 ![](img/img.png)
+
+# Experiment-With-NodeBot-And-Wheels
+
+Get the wheels Running
+Tryout Motion Sensors
+
+![](img/S.png)
+
+--Thank You---
