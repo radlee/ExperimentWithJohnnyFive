@@ -6,7 +6,8 @@ Write modules for the code of arduinos
 
 Get the The Following for the Experiment
 
-* Board
+* Aparatus
+  * Board
   * Arduino
   * Wires(>4)
   * Resistors
@@ -14,3 +15,18 @@ Get the The Following for the Experiment
   * Motor
   * Speaker
 * Get the Wheels too and make a nodebot
+
+# LED-Blink-Blink
+
+Give Blink-Blink command using a voice
+
+* Switch on
+* Switch off
+* Blink-Blink
+* Switch to ready
+* Switch to green
+* Run the Motor
+
+# projectCodex-
+
+![](img/ProjectcodeXTransOrigin.png)
